@@ -1,0 +1,9 @@
+Package: com.tylerj.kelvinweather
+Name: KelvinWeather
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: A simple iOS tweak that changes the stock Weather apps temperature to Kelvin.
+Maintainer: Tyler Jaacks <TylerJaacks@Gmail.com>
+Author: Tyler Jaacks <TylerJaacks@Gmail.com>
+Section: Tweaks
